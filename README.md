@@ -30,7 +30,7 @@ Decorative Plant CNN DL Model for Abiotic Stress Detection
   <tr>
     <td align="center"><img src="SampleImages/Arrowhead_A10_Light_Deficient_Heavy_Plain_Level_Far.jpg" width="200"/><br/>Arrowhead</td>
     <td align="center"><img src="SampleImages/Fittonia_F11_Light_Deficient_Light_Bedroom_Level_Leaf.jpg" width="200"/><br/>Fittonia</td>
-    <td align="center"><img src="SampleImages/Pothos_P12_Light_Deficient_Light_Plain_Above_Middle.jpg" width="200"/><br/>Arrowhead</td>
+    <td align="center"><img src="SampleImages/Pothos_P12_Light_Deficient_Light_Plain_Above_Middle.jpg" width="200"/><br/>Pothos</td>
     <td align="center"><img src="SampleImages/Waffle_W9_Light_Deficient_Light_Bedroom_Low_Leaf.jpg" width="200"/><br/>Waffle</td>
   </tr>
 
